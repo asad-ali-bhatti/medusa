@@ -1322,7 +1322,7 @@
       "title": "Create Refund",
       "sendNotificationHint": "Notify customers about the created refund.",
       "systemPayment": "System payment",
-      "systemPaymentDesc": "One or more of your payments is a system payment. Be aware, that captures and refunds are not handled by Medusa for such payments.",
+      "systemPaymentDesc": "One or more of your payments is a system payment. Be aware, that captures and refunds are not handled by Afroasia Admin for such payments.",
       "error": {
         "amountToLarge": "Cannot refund more than the original order amount.",
         "amountNegative": "Refund amount must be a positive number.",
@@ -2544,7 +2544,7 @@
       "createPublishableHeader": "Create Publishable API Key",
       "createPublishableHint": "Create a new publishable API key to limit the scope of requests to specific sales channels.",
       "createSecretHeader": "Create Secret API Key",
-      "createSecretHint": "Create a new secret API key to access the Medusa API as an authenticated admin user.",
+      "createSecretHint": "Create a new secret API key to access the Afroasia Admin API as an authenticated admin user.",
       "secretKeyCreatedHeader": "Secret Key Created",
       "secretKeyCreatedHint": "Your new secret key has been generated. Copy and securely store it now. This is the only time it will be displayed.",
       "copySecretTokenSuccess": "Secret key was copied to clipboard.",
@@ -2638,11 +2638,11 @@
   },
   "login": {
     "forgotPassword": "Forgot password? - <0>Reset</0>",
-    "title": "Welcome to Medusa",
+    "title": "Welcome to Afroasia Admin",
     "hint": "Sign in to access the account area"
   },
   "invite": {
-    "title": "Welcome to Medusa",
+    "title": "Welcome to Afroasia",
     "hint": "Create your account below",
     "backToLogin": "Back to login",
     "createAccount": "Create account",
@@ -2650,8 +2650,8 @@
     "emailTooltip": "Your email cannot be changed. If you would like to use another email, a new invite must be sent.",
     "invalidInvite": "The invite is invalid or has expired.",
     "successTitle": "Your account has been registered",
-    "successHint": "Get started with Medusa Admin right away.",
-    "successAction": "Start Medusa Admin",
+    "successHint": "Get started with Afroasia Admin right away.",
+    "successAction": "Start Afroasia Admin",
     "invalidTokenTitle": "Your invite token is invalid",
     "invalidTokenHint": "Try requesting a new invite link.",
     "passwordMismatch": "Passwords do not match",
@@ -2684,7 +2684,7 @@
   },
   "workflowExecutions": {
     "domain": "Workflows",
-    "subtitle": "View and keep track of workflow executions in your Medusa application.",
+    "subtitle": "View and keep track of workflow executions in your Afroasia Admin application.",
     "transactionIdLabel": "Transaction ID",
     "workflowIdLabel": "Workflow ID",
     "progressLabel": "Progress",
@@ -2775,7 +2775,7 @@
       "description": "You don't have any notifications at the moment, but once you do they will live here."
     },
     "accessibility": {
-      "description": "notifications about Medusa activities will be listed here."
+      "description": "notifications about Afroasia Admin activities will be listed here."
     }
   },
   "errors": {
